@@ -25,6 +25,7 @@ I am a Biotechnology graduate interested in applying computational approaches to
 🎓 **Education**
 
 B.Tech Biotechnology — Saveetha School of Engineering
+
 CGPA: 9.12 / 10
 
 💼 **Experience**
