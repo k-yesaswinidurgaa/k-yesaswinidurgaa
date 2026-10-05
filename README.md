@@ -30,7 +30,7 @@ CGPA: 9.12 / 10
 
 💼 **Experience**
 
-Bioinformatics Project Intern — BioNome
+**Bioinformatics Project Intern — BioNome**
 
 Worked on multitarget molecular docking and in-silico screening of natural compounds for IPF drug discovery.
 
